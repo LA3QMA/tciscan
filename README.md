@@ -10,3 +10,6 @@ tciscan reads the memoryfile from SunSDR and scans trough them.
 * Scan lock out
 
 For ToDo list etc, see <https://github.com/LA3QMA/tciscan/projects/1>.
+
+## Download
+Latest version: <https://github.com/LA3QMA/tciscan/releases>
