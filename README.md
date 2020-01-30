@@ -5,7 +5,7 @@ tciscan is a cross platform memory scan plugin for Expert Electronics SunSDR2 (<
 tciscan reads the memoryfile from SunSDR2 and scans trough them.
 
 #### Features
-* Scan when signal disappears - BUG
+* Scan when signal disappears
 * Scan after delay time
 * Scan lock out
 
