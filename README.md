@@ -9,6 +9,9 @@ tciscan reads the memoryfile from SunSDR2 and scans trough them.
 * Scan after delay time
 * Scan lock out
 
+#### Requires
+TCI protocol v1.4
+
 For ToDo list etc, see <https://github.com/LA3QMA/tciscan/projects/1>.
 
 #### Download
